@@ -24,5 +24,8 @@
   "homepage": "https://github.com/MissAimeeJay/jest-another-RPG-10#readme",
   "devDependencies": {
     "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0"
   }
 }
